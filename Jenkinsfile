@@ -8,4 +8,7 @@ pipeline {
     }
 
   }
+  environment {
+    NY_NEW_VAR = 'MY_NEW_VALUE'
+  }
 }
